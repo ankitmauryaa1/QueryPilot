@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+mysql-connector-python
+sqlalchemy
+groq
+python-dotenv
+plotly
+openpyxl
+sqlglot
